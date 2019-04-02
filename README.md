@@ -9,3 +9,5 @@ github上加载ipynb文件容易失败，可以复制链接[点击](https://nbvi
 [2.单个隐藏层的神经网络推导与实现——分类](https://github.com/cjx4401/Learn_ML/blob/master/one_hidden_layer_classification.ipynb)
 
 [3.keras-服装分类-简单优化](https://github.com/cjx4401/Learn_ML/blob/master/basic-classification-optimization.ipynb)
+
+[4.tensorflow使用](https://github.com/cjx4401/Learn_ML/blob/master/tensorflow tutorial.ipynb)

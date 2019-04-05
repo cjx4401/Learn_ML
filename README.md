@@ -11,3 +11,9 @@ github上加载ipynb文件容易失败，可以复制链接[点击这里](https:
 [3.keras-服装分类-简单优化](https://github.com/cjx4401/Learn_ML/blob/master/basic-classification-optimization.ipynb)
 
 [4.tensorflow使用](https://github.com/cjx4401/Learn_ML/blob/master/TensorFlow%20Tutorial.ipynb)
+
+[5.Convolutional Neural Networks(np)](https://github.com/cjx4401/Learn_ML/blob/master/Convolutional%20Neural%20Networks.ipynb)
+
+[6.Convolutional Neural Networks application(tf)](https://github.com/cjx4401/Learn_ML/blob/master/Convolutional%20Neural%20Networks%20application.ipynb)
+
+

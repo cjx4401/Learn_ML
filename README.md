@@ -18,8 +18,8 @@ github上加载ipynb文件容易失败，可以复制链接[点击这里](https:
 [6.keras识别微笑](https://github.com/cjx4401/Learn_ML/blob/master/file_ipynb/Keras%20tutorial.ipynb)
 
 
-[5.卷积神经网络(np)](https://github.com/cjx4401/Learn_ML/blob/master/file_ipynb/Convolutional%20Neural%20Networks.ipynb)
+[7.卷积神经网络(np)](https://github.com/cjx4401/Learn_ML/blob/master/file_ipynb/Convolutional%20Neural%20Networks.ipynb)
 
-[6.卷积神经网络使用(tf)](https://github.com/cjx4401/Learn_ML/blob/master/file_ipynb/Convolutional%20Neural%20Networks%20application.ipynb)
+[8.卷积神经网络使用(tf)](https://github.com/cjx4401/Learn_ML/blob/master/file_ipynb/Convolutional%20Neural%20Networks%20application.ipynb)
 
 

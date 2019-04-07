@@ -22,4 +22,7 @@ github上加载ipynb文件容易失败，可以复制链接[点击这里](https:
 
 [8.卷积神经网络使用(tf)](https://github.com/cjx4401/Learn_ML/blob/master/file_ipynb/Convolutional%20Neural%20Networks%20application.ipynb)
 
+[9.车辆检测](https://github.com/cjx4401/Learn_ML/blob/master/car/Car%20detection.ipynb)
+
+
 

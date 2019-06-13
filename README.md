@@ -24,5 +24,7 @@ github上加载ipynb文件容易失败，可以复制链接[点击这里](https:
 
 [9.车辆检测](https://github.com/cjx4401/Learn_ML/blob/master/car/Car%20detection.ipynb)
 
+[10.pytorch_chatbot](https://github.com/cjx4401/Learn_ML/blob/master/file_ipynb/pytorch_chatbot.ipynb)
+
 
 

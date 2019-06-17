@@ -28,5 +28,8 @@ github上加载ipynb文件容易失败，可以复制链接[点击这里](https:
 
 [11.nlp_文本二分类_lstm](https://github.com/cjx4401/Learn_ML/blob/master/file_ipynb_convert_py/simple_lstm.py)
 
+[12.nnlm](https://github.com/cjx4401/Learn_ML/blob/master/file_ipynb_convert_py/nnlm.py)[nnlm_tf](https://github.com/cjx4401/Learn_ML/blob/master/file_ipynb_convert_py/nnlm_tf.py)
+
+
 
 
